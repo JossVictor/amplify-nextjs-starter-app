@@ -1,29 +1,9 @@
-## AWS Amplify + Next.js starter
+# Next.JS 13.4 E-Commerce App
 
-This is a starter application for building fullstack apps with AWS Amplify. 
+An e-commerce website similar to Amazon that makes heavy use of **Next.js server actions**.
 
-Learn more: https://docs.amplify.aws/gen2/start/quickstart/ 
+Includes user sign-in with **Next-Auth**, **anonymous shopping carts**, **Prisma client extensions**, and more. Written in **TypeScript**. UI built with **TailwindCSS** & **DaisyUI**.
 
-### Getting Started
+Learn how to build this project: https://www.youtube.com/watch?v=AaiijESQH5o
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
+![thumbnail](https://github.com/codinginflow/nextjs-ecommerce/assets/52977034/7367010c-abc3-4e11-acdf-03b98f7f0f70)
